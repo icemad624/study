@@ -1,2 +1,2 @@
-# Glo
+# Study
 Learn js
