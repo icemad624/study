@@ -1,0 +1,5 @@
+Правильный выбор имени переменной https://learn.javascript.ru/variables#pridumyvayte-pravilnye-imena
+Объект консоль https://developer.mozilla.org/ru/docs/Web/API/Console
+Интерактивный тур по git https://githowto.com/ru
+Часто задаваемые вопросы по git http://firstaidgit.ru/#/
+Шпаргалка по консольным командам Git https://github.com/nicothin/web-development/blob/master/git/readme.md

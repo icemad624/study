@@ -1,0 +1,10 @@
+alert("hello");
+console.log("Консоль лог");
+let money = "Курс";
+let income = 12;
+let addExpenses = 44;
+let deposit = "20%";
+let mission = true;
+let period = 8;
+console.log(money ,income);
+console.log(addExpenses ,deposit ,mission ,period);
